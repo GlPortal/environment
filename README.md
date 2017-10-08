@@ -1,5 +1,5 @@
 # GlPortal Development Environment
-Invoke in a zsh like
+Invoke in a zsh or compatible like
 ```
 source init
 ```
