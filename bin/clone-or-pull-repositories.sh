@@ -8,6 +8,7 @@ read -r -d '' REPOSITORIES << REPOSITORIES
 git@github.com:GlPortal/glPortal.git
 git@github.com:GlPortal/micro-site.git
 git@github.com:GlPortal/map-editor.git
+git@github.com:GlPortal/map-templates.git
 REPOSITORIES
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
