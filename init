@@ -1,1 +1,2 @@
 source ./bin/aliases.sh
+source ./bin/functions.sh
