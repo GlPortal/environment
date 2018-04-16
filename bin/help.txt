@@ -1,0 +1,17 @@
+
+Radix Development Environment
+
+rx-help             show this help
+rx-env-reload       reload environment
+
+# Game Client
+rx-clients-list     show available clients
+rx-client-use       go to a specific client
+rx-clone            create a new client
+rx-delete           remove a client
+rx-run              run glportal
+
+# Repositories
+rx-update           update repositories
+rx-repos-list       list repositories
+rx-repo-use         go to a specific repo
